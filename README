@@ -1,0 +1,3 @@
+This is a simple EDAC module that can be loaded even if ECC hardware is not
+available. It can be useful for testing EDAC in a virtual machine with
+mce-inject.
